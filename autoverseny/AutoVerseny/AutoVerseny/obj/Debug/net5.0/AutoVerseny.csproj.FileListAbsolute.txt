@@ -1,0 +1,16 @@
+J:\C_sharp\C#halado_2felev\autoverseny\AutoVerseny\AutoVerseny\bin\Debug\net5.0\AutoVerseny.exe
+J:\C_sharp\C#halado_2felev\autoverseny\AutoVerseny\AutoVerseny\bin\Debug\net5.0\AutoVerseny.deps.json
+J:\C_sharp\C#halado_2felev\autoverseny\AutoVerseny\AutoVerseny\bin\Debug\net5.0\AutoVerseny.runtimeconfig.json
+J:\C_sharp\C#halado_2felev\autoverseny\AutoVerseny\AutoVerseny\bin\Debug\net5.0\AutoVerseny.runtimeconfig.dev.json
+J:\C_sharp\C#halado_2felev\autoverseny\AutoVerseny\AutoVerseny\bin\Debug\net5.0\AutoVerseny.dll
+J:\C_sharp\C#halado_2felev\autoverseny\AutoVerseny\AutoVerseny\bin\Debug\net5.0\ref\AutoVerseny.dll
+J:\C_sharp\C#halado_2felev\autoverseny\AutoVerseny\AutoVerseny\bin\Debug\net5.0\AutoVerseny.pdb
+J:\C_sharp\C#halado_2felev\autoverseny\AutoVerseny\AutoVerseny\obj\Debug\net5.0\AutoVerseny.csproj.AssemblyReference.cache
+J:\C_sharp\C#halado_2felev\autoverseny\AutoVerseny\AutoVerseny\obj\Debug\net5.0\AutoVerseny.GeneratedMSBuildEditorConfig.editorconfig
+J:\C_sharp\C#halado_2felev\autoverseny\AutoVerseny\AutoVerseny\obj\Debug\net5.0\AutoVerseny.AssemblyInfoInputs.cache
+J:\C_sharp\C#halado_2felev\autoverseny\AutoVerseny\AutoVerseny\obj\Debug\net5.0\AutoVerseny.AssemblyInfo.cs
+J:\C_sharp\C#halado_2felev\autoverseny\AutoVerseny\AutoVerseny\obj\Debug\net5.0\AutoVerseny.csproj.CoreCompileInputs.cache
+J:\C_sharp\C#halado_2felev\autoverseny\AutoVerseny\AutoVerseny\obj\Debug\net5.0\AutoVerseny.dll
+J:\C_sharp\C#halado_2felev\autoverseny\AutoVerseny\AutoVerseny\obj\Debug\net5.0\ref\AutoVerseny.dll
+J:\C_sharp\C#halado_2felev\autoverseny\AutoVerseny\AutoVerseny\obj\Debug\net5.0\AutoVerseny.pdb
+J:\C_sharp\C#halado_2felev\autoverseny\AutoVerseny\AutoVerseny\obj\Debug\net5.0\AutoVerseny.genruntimeconfig.cache
